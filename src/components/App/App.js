@@ -8,7 +8,7 @@ const name = require("@rstacruz/startup-name-generator");
 
 class App extends React.Component {
   state = {
-    headertext: "Namegram ! ",
+    headertext: "Namegramme ! ",
     headerExpanded: true,
     suggestedNames: [],
   };
