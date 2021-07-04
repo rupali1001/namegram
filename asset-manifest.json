@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/namegram/static/css/main.c079e089.chunk.css",
-    "main.js": "/namegram/static/js/main.426c4835.chunk.js",
-    "main.js.map": "/namegram/static/js/main.426c4835.chunk.js.map",
+    "main.js": "/namegram/static/js/main.e0810ec9.chunk.js",
+    "main.js.map": "/namegram/static/js/main.e0810ec9.chunk.js.map",
     "runtime-main.js": "/namegram/static/js/runtime-main.29b6acb1.js",
     "runtime-main.js.map": "/namegram/static/js/runtime-main.29b6acb1.js.map",
     "static/js/2.833316e0.chunk.js": "/namegram/static/js/2.833316e0.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.29b6acb1.js",
     "static/js/2.833316e0.chunk.js",
     "static/css/main.c079e089.chunk.css",
-    "static/js/main.426c4835.chunk.js"
+    "static/js/main.e0810ec9.chunk.js"
   ]
 }
